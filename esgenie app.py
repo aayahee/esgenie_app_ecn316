@@ -1,5 +1,5 @@
 # app.py
-# ESGenie🧞 — Sustainable Portfolio Adviser
+# ESGenie🧞 — Sustainable Portfolio Advisor
 # Single-page Streamlit app
 
 import streamlit as st
@@ -133,7 +133,7 @@ def optimise_for_params(theta_val, gamma_val, weights,
 
 # ── Header ────────────────────────────────────────────────────────────
 st.title("ESGenie🧞")
-st.subheader("Your personalised sustainable investment portfolio adviser")
+st.subheader("Your personalised sustainable investment portfolio advisor")
 st.markdown("---")
 
 # ── Sidebar inputs ────────────────────────────────────────────────────
